@@ -10,7 +10,7 @@ JOBS = [
         "id": 2,
         "title": "Data Scientist",
         "location": "Chicago, IL",
-        # "salary": "$80,000",
+        "salary": "$80,000",
     },
     {"id": 3, "title": "Web Designer", "location": "Boulder, CO", "salary": "$75,000"},
 ]
